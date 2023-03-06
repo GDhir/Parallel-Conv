@@ -1,0 +1,3 @@
+/uufs/chpc.utah.edu/common/home/u1444601/CS6235/HW4/build/CMakeFiles/rebuild_cache.dir
+/uufs/chpc.utah.edu/common/home/u1444601/CS6235/HW4/build/CMakeFiles/cnn-gpu.dir
+/uufs/chpc.utah.edu/common/home/u1444601/CS6235/HW4/build/CMakeFiles/edit_cache.dir
